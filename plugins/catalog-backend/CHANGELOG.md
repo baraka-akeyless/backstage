@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend
 
+## 3.8.2-next.1
+
+### Patch Changes
+
+- b7650ad: Simplified internal router setup by removing unnecessary conditional guards around route registrations.
+- Updated dependencies
+  - @backstage/integration@2.1.0-next.0
+
 ## 3.8.2-next.0
 
 ### Patch Changes
